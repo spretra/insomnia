@@ -1,0 +1,21 @@
+_id: req_2bf814d331c34d8a8c23d7b43415ba41
+type: Request
+parentId: fld_5ad886291cd243bdbd3958842cc58c4b
+modified: 1664511444311
+created: 1664511385104
+url: https://spretra.eu.ngrok.io/trade/import
+name: Import Trades
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664511385104
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
