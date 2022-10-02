@@ -1,0 +1,16 @@
+_id: env_11559df525f644a18f0c0ac5d4816e2a
+type: Environment
+parentId: env_58229703a061517c392da01b0834977915d3e2c9
+modified: 1664697365101
+created: 1662320112212
+name: Test
+data:
+  base_url: https://actr.eu.ngrok.io
+  acc: DU4174399
+dataPropertyOrder:
+  "&":
+    - base_url
+    - acc
+color: null
+isPrivate: false
+metaSortKey: 1662320112212

@@ -1,0 +1,16 @@
+_id: env_433df58e34444678a31de024f0f3af30
+type: Environment
+parentId: env_58229703a061517c392da01b0834977915d3e2c9
+modified: 1664697362468
+created: 1664696860223
+name: Life
+data:
+  base_url: https://spretra.eu.ngrok.io
+  acc: U6546668
+dataPropertyOrder:
+  "&":
+    - base_url
+    - acc
+color: null
+isPrivate: false
+metaSortKey: 1662320189894.5
