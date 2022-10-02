@@ -1,0 +1,21 @@
+_id: req_374bc3803ede463f8b35dd2344cac104
+type: Request
+parentId: fld_fa831b8ff1434a9e8b0eac3c2523abdf
+modified: 1664698016404
+created: 1664697914555
+url: "{{ _.base_url }}/position/all"
+name: "Position: all"
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664691057428
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_dbcaad67918644ba9dd5376073a8f52f
+type: Request
+parentId: fld_fa831b8ff1434a9e8b0eac3c2523abdf
+modified: 1664697778918
+created: 1664697742891
+url: "{{ _.base_url }}/trade/openTrades"
+name: "Trade: openTrades"
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664601221241
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
